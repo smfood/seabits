@@ -3755,17 +3755,16 @@ body {
 .seabits {
   background: #22a5df;
   color: #ffffff;
-  padding: 1rem;
   background: url(../images/background.png);
   background-size: cover;
 }
 
-/* line 23, ../sass/seabits.scss */
+/* line 22, ../sass/seabits.scss */
 a {
   color: #ffffff;
 }
 
-/* line 29, ../sass/seabits.scss */
+/* line 28, ../sass/seabits.scss */
 .logo {
   background: url(../images/logo.png);
   background-position: center center;
@@ -3779,12 +3778,12 @@ a {
   -webkit-text-stroke: 2px white;
   font-size: 4.16667rem;
 }
-/* line 41, ../sass/seabits.scss */
+/* line 40, ../sass/seabits.scss */
 .logo span {
   color: #f1582b;
 }
 
-/* line 47, ../sass/seabits.scss */
+/* line 46, ../sass/seabits.scss */
 .heading {
   background: url(../images/heading.png);
   background-position: center center;
@@ -3795,56 +3794,56 @@ a {
   margin-top: 2.5rem;
 }
 
-/* line 57, ../sass/seabits.scss */
+/* line 56, ../sass/seabits.scss */
 .box {
   margin-bottom: 1rem;
 }
-/* line 59, ../sass/seabits.scss */
+/* line 58, ../sass/seabits.scss */
 .box--rounded {
   border-radius: 10px;
   -webkit-box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
           box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
 }
-/* line 63, ../sass/seabits.scss */
+/* line 62, ../sass/seabits.scss */
 .box .header {
   border-radius: 10px 10px 0 0;
   text-align: center;
   padding: 1rem;
 }
-/* line 69, ../sass/seabits.scss */
+/* line 68, ../sass/seabits.scss */
 .box .box-title {
   font-size: 1.2rem;
 }
-/* line 74, ../sass/seabits.scss */
+/* line 73, ../sass/seabits.scss */
 .box__facebook .header {
   background: #3B5998;
 }
-/* line 80, ../sass/seabits.scss */
+/* line 79, ../sass/seabits.scss */
 .box__twitter .header {
   background: #1db2ff;
 }
-/* line 86, ../sass/seabits.scss */
+/* line 85, ../sass/seabits.scss */
 .box__instagram .header {
   background: #6b11d0;
 }
-/* line 91, ../sass/seabits.scss */
+/* line 90, ../sass/seabits.scss */
 .box .body {
   min-height: 300px;
   background: #fff;
 }
 
-/* line 97, ../sass/seabits.scss */
+/* line 96, ../sass/seabits.scss */
 html {
   position: relative;
   min-height: 100%;
 }
 
-/* line 101, ../sass/seabits.scss */
+/* line 100, ../sass/seabits.scss */
 body {
   margin-bottom: 160px;
 }
 
-/* line 104, ../sass/seabits.scss */
+/* line 103, ../sass/seabits.scss */
 .footer {
   position: absolute;
   bottom: 0;
