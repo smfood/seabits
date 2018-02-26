@@ -3830,20 +3830,27 @@ a {
 .box .body {
   min-height: 300px;
   background: #fff;
+  padding: 0.83333rem;
+}
+/* line 94, ../sass/seabits.scss */
+.box .body .content {
+  max-height: 450px;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
-/* line 96, ../sass/seabits.scss */
+/* line 102, ../sass/seabits.scss */
 html {
   position: relative;
   min-height: 100%;
 }
 
-/* line 100, ../sass/seabits.scss */
+/* line 106, ../sass/seabits.scss */
 body {
   margin-bottom: 160px;
 }
 
-/* line 103, ../sass/seabits.scss */
+/* line 109, ../sass/seabits.scss */
 .footer {
   position: absolute;
   bottom: 0;
