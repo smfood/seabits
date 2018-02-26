@@ -2,6 +2,9 @@ $font_size: 12px;
 $sticky_height: 160px;
 @import "font-awesome";	
 
+
+
+
 @function crem($size) {
   $remSize: $size / $font_size;
   @return #{$remSize}rem;
